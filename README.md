@@ -33,10 +33,3 @@ Each person will launch a personal website hosted on Github Pages.
 --- 
 
 ## Results
-
-We built our website site!
-
-- [Connor Bercik](https://cbercik.github.io/)
-- [Meagan Gramatikov](https://projectdalek.github.io/)
-- [Andrew Johnson](https://ajjme.github.io/)
-- [Carter Webb](https://carterewebb.github.io/)
